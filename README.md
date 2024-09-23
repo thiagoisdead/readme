@@ -71,10 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thiagoisdead/thiagoisdead/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" src="https://profile-counter.glitch.me/thiagoisdead/count.svg?"  />
 
 ###
