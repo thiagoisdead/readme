@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu conhecimento em programação, aplicado no meu portfólio!<br>https://thiagoisdead.github.io/projects/</p>
+<p align="center">My knowledge in programming, applied to projects in my portfolio!<br>https://thiagoisdead.github.io/projects/</p>
 
 ###
 
