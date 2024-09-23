@@ -1,4 +1,4 @@
-<h1 align="left">Meu nome é Thiago Navarro, e sou um dev focado em Java e JavaScript!</h1>
+<h1 align="left">Hi, im Thiago Navarro!</h1>
 
 ###
 
